@@ -5,3 +5,18 @@ HAiO 如何通过 AI 代理、Web3 流媒体和 NFT 驱动的所有权重塑音�
 
 # Haio_Bot
 最高吃满50个邀请，你懂的。直接运行脚本！
+
+怎么运行？
+
+## 方法 1、
+```python
+pip install base58 pynacl requests colorama solders
+python bot.py
+```
+
+
+## 方法 2、
+```python
+pip install -r requirements.txt
+python bot.py
+```
