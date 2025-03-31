@@ -8,6 +8,8 @@ HAiO 如何通过 AI 代理、Web3 流媒体和 NFT 驱动的所有权重塑音�
 
 怎么运行？
 
+由于老外朋友说不需要打包，我也懒得搞，直接python运行吧。如果涉及到python-venv部分，请自行安装！
+
 ## 方法 1、
 ```python
 pip install base58 pynacl requests colorama solders
